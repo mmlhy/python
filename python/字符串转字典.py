@@ -1,0 +1,11 @@
+a = """{
+            'bakend': 'www.oldboy.org',
+            'record':{
+                'server': '100.1.7.9',
+                'weight': 20,
+                'maxconn': 30
+            }
+        }"""
+
+a = eval(a)
+print(a)
