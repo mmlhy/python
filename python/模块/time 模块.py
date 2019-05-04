@@ -58,5 +58,3 @@ print(time.asctime(x))
 #时间戳转化为固定格式的字符串型
 print(time.ctime(1553432084.4165509))
 
-
-
